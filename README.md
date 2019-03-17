@@ -2,7 +2,7 @@
 
 This is a basic responsive portfolio build on Bootstrap for freshers who intend showcasing their work on a single page.
 
-You can fine a live example on [T. A. M](http://www.bluedrupsltd.com/isaacobenson/)
+You can fine a live example on [Isaac Obenson's T. A. M](http://www.bluedrupsltd.com/isaacobenson/)
 
 Each project contains an external photo and a title which links to the details of the
 project done when clicked. The details cantains different sub-headings, images
