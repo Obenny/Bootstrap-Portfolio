@@ -2,7 +2,7 @@
 
 This is a basic responsive portfolio build on Bootstrap for freshers who intend showcasing their work on a single page.
 
-You can fine a live example on [T. A. M] - (http://www.bluedrupsltd.com/isaacobenson/)
+You can fine a live example on [T. A. M](http://www.bluedrupsltd.com/isaacobenson/)
 
 Each project contains an external photo and a title which links to the details of the
 project done when clicked. The details cantains different sub-headings, images
@@ -29,7 +29,7 @@ Just start your Apache and MySQL from your XAMPP Control Panel and then type loc
 ## Deployment
 
 To deploy this on a live system, make appropriate changes to the index.html, the CSS and customjavascript files 
-so that it can look awesome like that of [T. A. M] - (http://www.bluedrupsltd.com/isaacobenson/)
+so that it can look awesome like that of [T. A. M](http://www.bluedrupsltd.com/isaacobenson/)
 
 ## Built With Template from
 
